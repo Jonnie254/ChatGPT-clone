@@ -1,4 +1,5 @@
 ﻿# ChatGPT-clone
+# Backend is coming
 <br> https://jonnie254.github.io/ChatGPT-clone/
 
 This repository contains the code for a ChatGPT clone. ChatGPT is a language model developed by OpenAI that can generate human-like text responses based on given prompts. This clone aims to replicate the functionality of ChatGPT and provide a conversational experience for users.

@@ -32,8 +32,35 @@ h1{
     text-align: center;
     width:100%;
 }
+.bottom-section{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 .info{
-    color:rgba(255,255,255,0.5);
+   color:rgba(255,255,255,0.5);
     font-size: 11px;
     padding:10px;
+}
+input{
+    border: none;
+    background-color: rgba(255,255,255,0.5);
+    width:100%;
+    font-size:20px;
+    padding: 12px 15px;
+    border-radius: 5px;
+    box-shadow: rgba(0,0,0 ,0.05) 0 54px 55px,
+                rgba(0,0,0 ,0.05) 0 -12px 30px,
+                rgba(0,0,0,0.05) 0 4px 6px,
+                rgba(0,0,0,0.05) 0 12px 3px,
+                rgba(0,0,0,0.09) 0 -3px 5px; 
+}
+input:focus{
+    outline: none;
+}
+.input-container{
+    width:100%;
+    max-width: 600px;
 }
